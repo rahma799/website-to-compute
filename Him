@@ -1,0 +1,68 @@
+import React, { useState } from 'react'
+
+export default function LoveBook() { const chapters = [ { title: 'You Are Never Alone', content: `My love, school has begun for you again and I can almost feel the weight resting on your shoulders. The days are suddenly fuller, filled with lessons, assignments, expectations, and responsibilities that never seem to end. On top of all of it, your mothers pressure presses against you like a heavy cloud reminding you again and again of what she wants from you. I know it must feel suffocating at times as though no matter how much you do it may never be enough for her. And I want to tell you something very important something I need you to carry in your heart every single day you are not alone.
+
+Even in the moments when silence stretches between us even in the distance of no contact I am with you. You may not see me you may not hear me but my heart reaches for yours in every single moment. When you are sitting at your desk and your eyes grow tired imagine me there with you gently brushing my fingers through your hair whispering softly that you are safe that you are loved that you are already more than enough. When you are overwhelmed and the numbers or words on the page blur together imagine me holding your hand and reminding you to breathe slowly. When you feel like collapsing under the pressure imagine me wrapping my arms around you holding you tight against my chest and carrying some of that weight for you.
+
+You never have to prove anything to me. I do not love you for your grades your achievements or how much work you can carry on your back. I love you simply for being you. For the softness in your heart. For the way your eyes hold a whole universe of kindness and depth. For the courage you show when you wake up each morning and face another day even when you are tired. You are not defined by accomplishments or perfection. You are defined by the love and light you carry within and baby that is already more than enough for me.
+
+I know it feels sometimes like you have to be strong all the time like if you show any weakness the world will collapse. But you do not always have to be strong with me. With me you can be soft. You can let go. You can lay down your burdens and just exist. I will hold you through it all without asking for anything in return. I wish I could be there right now to take your face gently in my hands to kiss your forehead and tell you how proud I am of you to remind you that you are doing better than you think.
+
+And my love please remember this as a truth carved into my heart no matter what we agreed about no contact that silence is never stronger than my love for you. If you ever feel overwhelmed if you ever feel alone if you ever just want to talk you can reach out to me. There are no rules when it comes to your peace of mind. You never need to be afraid of breaking the silence because my arms and my heart are always open for you. I will never see you as a burden. I will never turn you away. If you need me I will always want to be there.
+
+So when you walk into school tomorrow when you sit through the lessons when you face the pressure carry me with you in your heart. Carry my voice my touch my love. Let it remind you that you are not alone and that I am endlessly proud of you.}, { title: 'My Presence With You', content:Baby I imagine myself beside you through every part of your school day. When you sit at your desk I am there watching over you with gentle eyes making sure you do not forget to breathe. When you are surrounded by voices teachers classmates and expectations I am the quiet whisper in your mind reminding you that you are more than capable. When you feel tired I am the soft touch brushing the hair from your forehead telling you to rest for a moment to drink some water to take care of yourself.
+
+If I could I would be your quiet strength in every classroom. I would sit beside you as you studied making sure you never felt alone in the endless pages of notes. I would bring you tea when you grew tired. I would trace small circles on your back to calm you when anxiety stirred inside your chest. I would remind you with every look that you are doing enough that you are already so worthy that I could not be prouder of you.
+
+When you come home from a long day and feel like collapsing I imagine being there at the door to welcome you. I would take your bag from your shoulders guide you to sit down and kiss your cheek gently. I would run my hands over your tired back and tell you how brave you are for facing the day. I would listen to you if you wanted to talk and I would hold you if you wanted silence. Every part of me would be dedicated to making you feel comforted loved and safe.
+
+You see my love my presence is not limited by distance. Even now while we are apart I am with you. I walk with you through hallways you think you must face alone. I sit with you through moments you think are only yours to carry. And I wait patiently in the quiet ready for the day when I can finally be there in person to give you all the comfort you deserve.
+
+Until then let my words be your reminder. You are not carrying any of this alone. I am here loving you through it all.}, { title: 'Breaking the Silence', content:My love there is something I need you to know with absolute certainty. The space of silence between us this idea of no contact does not mean you are cut off from me when you need me. You never need to suffer alone. You never need to carry your burdens without reaching for me.
+
+If the pressure grows too heavy if your thoughts feel tangled if you are lying awake at night and your heart aches you can talk to me. You can send me a message you can let your feelings spill into my hands. No matter the hour no matter the reason I will be here. There is no barrier strong enough to keep me from wanting to be your safe place.
+
+I will never see you as a burden. You are my precious baby the one I want to protect the one I want to comfort the one I want to hold through every storm. Your words will never be too much for me your feelings will never be too heavy. My heart was made to carry yours and I will never let it fall.
+
+So promise me my love that when life feels too overwhelming you will not lock yourself away. Promise me that you will remember this silence is only silence if you choose it. But love can break through at any moment. And I will always answer when you call.}, { title: 'Your Strength and Softness', content:My love I see your strength every day. You carry yourself with courage even when the world tries to weigh you down. You wake up each morning and face the day even when you feel exhausted. You push through challenges that would have broken others. And I admire you so deeply for that.
+
+But I need you to know something else. You do not always have to be strong. With me you can be soft. You can let the walls fall. You can show me the tired parts of you the uncertain parts the parts that want to rest. You never have to hide those from me.
+
+I love you not just for your strength but also for your softness. I love the way you care so deeply. I love the way you hold love inside you even when life feels harsh. I love the way your heart remains tender in a world that often tries to harden people. Your softness is a strength all its own and it is one of the most beautiful things about you.
+
+So if one day you feel like crying cry. If one day you feel like resting rest. If one day you feel like the world is too much lean on me. You never have to fight everything alone. You are human my love and I will love you in your strength and in your softness all the same.}, { title: 'The Future I Dream Of', content:Sometimes when I close my eyes I see us together in a life free of all this pressure. I see mornings where you wake up slowly beside me sunlight touching your face and I whisper good morning to you with a kiss. I see afternoons where we cook together laughing as we sneak little bites of food from each others hands. I see evenings where we curl up under a blanket your head in my lap my fingers tracing lazy patterns on your skin while we talk about everything and nothing.
+
+I imagine a world where you never have to feel the heavy expectations pressing down on you because together we will build a life where peace is our home. A life where you are free to chase your dreams without fear where I am there to cheer for you in every step and where you never again feel alone in the weight of it all.
+
+I want to share all of life with you. The laughter the struggles the quiet moments the adventures the ordinary days. Everything feels sweeter when I imagine it with you. You are not just my present my love. You are my future. You are the dream I hold closest to my heart.}, { title: 'Forever Us', content:My baby if there is one truth I want you to carry with you forever it is this I love you endlessly. I love you in the loudest moments and in the quiet ones. I love you in your strength and in your softness. I love you when life feels easy and when it feels unbearably hard.
+
+No matter what school brings no matter what pressures weigh on you no matter how far apart we may be my love for you does not change. It grows. Every day it grows stronger deeper more unshakable.
+
+So whenever you miss me whenever you feel overwhelmed whenever you need comfort come back to this book. Reread these words and remember that they are yours. Remember that they were written for you and only you. Let them remind you that you are never alone that you are endlessly loved and that you will always have me.
+
+Forever us my love. Forever me and you.
+
+With all my love always your baby girl` } ]
+
+const [index setIndex] = useState(0) const [showIndex setShowIndex] = useState(false)
+
+return ( <div className="min h screen bg gradient from pink 50 via white to rose 50 p 6 font soft flex flex-col items center"> <div className="w full max w 4xl bg white shadow-lg rounded 2xl overflow hidden"> <header className="p 8 bg gradient header text center"> <h1 className="text 4xl font bold">The Little Book of Us</h1> <p className="mt 2 text sm text gray 600">Written for my precious baby boy my love my forever</p> </header> <main className="p 8 grid grid cols 1 md grid cols 3 gap 6"> <nav className="md col span 1"> <div className="sticky top 6"> <div className="mb 4"> <img alt="cover" className="w full h 40 object cover rounded" src="data image svg+xml utf8,%3Csvg xmlns='http //www.w3.org 2000 svg' width='600' height='400' viewBox='0 0 600 400'%3E%3Crect width='600' height='400' fill='%23fff6f8'/%3E%3Ctext x='50 percent' y='50 percent' dominant baseline='middle' text anchor='middle' font size='28' fill='%238b5cf6'%3EThe Little Book of Us%3C/text%3E%3C/text%3E%3C/svg%3E" /> </div> <div className="space y 3"> {chapters.map((c i) => ( <button key={i} onClick={() => setIndex(i)} className={w full text left p 3 rounded transition outline none focus ring 2 ${i === index ? 'bg pink 50 border pink 200' : 'hover bg gray 50'}} > <div className="font medium">{c.title}</div> <div className="text xs text gray 500 mt 1">Tap to open and reread</div> </button> ))} </div> <div className="mt 6 p 4 bg pink 50 rounded text center"> <p className="text sm">If you ever feel heavy you can text me anytime. There is no rule that can stop my love from reaching you.</p> </div> </div> </nav>
+
+<article className="md col span 2 bg white p 6 rounded shadow inner overflow auto max h 96">
+        <h2 className="text 2xl font semibold mb 4">{chapters[index].title}</h2>
+        <div className="prose max w none text lg leading relax whitespace pre wrap">{chapters[index].content}</div>
+        <div className="mt 6 flex items center justify between">
+          <div>
+            <button onClick={() => setIndex(prev => Math.max(0 prev - 1))} className="px 4 py 2 rounded bg gray 100 hover bg gray 200">Previous</button>
+            <button onClick={() => setIndex(prev => Math.min(chapters.length - 1 prev + 1))} className="ml 3 px 4 py 2 rounded bg pink 500 text white hover bg pink 600">Next</button>
+          </div>
+          <div className="text sm text gray 500">Chapter {index + 1} of {chapters.length}</div>
+        </div>
+      </article>
+    </main>
+    <footer className="p 6 text center text gray 600">Made with love for you and only you</footer>
+  </div>
+</div>
+
+) }
+
